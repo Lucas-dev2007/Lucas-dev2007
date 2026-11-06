@@ -13,15 +13,15 @@ I build REST APIs with Java and Spring Boot, and I'm looking for a remote backen
 
 ## 🚀 Featured projects
 
-- **[budgeting](LINK)**: personal-finance API with an AI-orchestrated transaction pipeline (Google Gemini, tool-calling)
-- **[task-manager](LINK)**: Spring Boot app built with hexagonal architecture
-- **[marketplace](LINK)**: Spring Boot project with a multi-datasource setup
-- **[spring-checkout-patterns](LINK)**: checkout system applying Strategy, Singleton and Facade
+- **[budgeting](https://github.com/Lucas-dev2007/budgeting)**: personal-finance API with an AI-orchestrated transaction pipeline (Google Gemini, tool-calling)
+- **[TaskManager](https://github.com/Lucas-dev2007/TaskManager)**: Spring Boot app built with hexagonal architecture
+- **[marketplace](https://github.com/Lucas-dev2007/marketplace)**: Spring Boot project with a multi-datasource setup
+- **[spring-checkout-patterns](https://github.com/Lucas-dev2007/spring-checkout-patterns)**: checkout system applying Strategy, Singleton and Facade
 
 ## 📚 Currently learning
 
 JUnit 5 + Mockito · Spring Security + JWT · AWS Cloud Practitioner
 
-## 📫 Contact
+## 📫 Links
 
-[Portfolio](LINK) · [LinkedIn](LINK) · seuemail@exemplo.com
+[Portfolio](https://lucas-dev2007.github.io/Portif-lio/)
